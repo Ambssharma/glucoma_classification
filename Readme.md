@@ -1,7 +1,7 @@
-GLUCOMA CLASSIFICATION using Convolutional Neural Network
+GLAUCOMA CLASSIFICATION using Convolutional Neural Network
 
 
-DataSet: Glucoma(40), Non-Glucoma(360)
+DataSet: Glaucoma(40), Non-Glaucoma(360)
 
 Total images: 400
 

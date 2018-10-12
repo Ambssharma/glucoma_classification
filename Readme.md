@@ -5,7 +5,7 @@ DataSet: Glaucoma(40), Non-Glaucoma(360)
 
 Total images: 400
 
-Data Preparation: Cropped the OD area and resized all the images to 597, 597, 3
+Data Preparation: Cropped the OD area, resized to 597, 597, 3 and normalized all the images
 
 Real-time Data Augumentation: Horizontal flips, Vertical flip, Rotations, Width shift, Height shift, Zooming
 
